@@ -5,7 +5,7 @@ This report is prepared as part of the Molecular Mdelling and Drug Designing lab
 
 ## Softwares used
 1. Molecular Operating Environment - SAR Explorer
-2. Microsoft excel for generating tables and graphs
+2. Microsoft excel and word for generating tables and graphs
 
 ## Contact
 For any enquiries, please send mail to avirupgn@gmail.com
